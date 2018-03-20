@@ -1,0 +1,1 @@
+Templates for IDV case studies, including an .xidv template bundle with MERRA-2 2D and 3D data, a Jupyter Notebook template, and a Python script to create a multi-panel plot of 1-degree rainfall product estimates.
